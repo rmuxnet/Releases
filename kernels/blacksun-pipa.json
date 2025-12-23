@@ -13,6 +13,6 @@
   "ksu_next_version": "v12797",
   "susfs_built_in": false,
 
-  "file_direct_url": "meow",
-  "changelog_file_direct_url": "meow"
+  "file_direct_url": "https://github.com/rmuxnet/Releases/releases/download/Pyrrha/BlackSun-PIPA-A16zip",
+  "changelog_file_direct_url": "https://github.com/rmuxnet/Releases/releases/tag/Pyrrha"
 }

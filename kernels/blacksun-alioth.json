@@ -1,0 +1,18 @@
+{
+  "device_name": "POCO F3",
+  "device_codename": "alioth",
+  "supported_platforms": "AOSP/MIUI",
+  "supported_android_versions": "16",
+
+  "current_ver": "4.19.325",
+  "version_codename": "Pyrrha",
+  "kernel_version": "4.19.325-BlackSun",
+  "date": "2025-12-20",
+
+  "ksu_next_built_in": true,
+  "ksu_next_version": "v12797",
+  "susfs_built_in": false,
+
+  "file_direct_url": "",
+  "changelog_file_direct_url": ""
+}
